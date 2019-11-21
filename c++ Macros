@@ -1,0 +1,11 @@
+#define INF 2147483647
+#define INFL 9223372036854775807
+#define pii pair<int,int>
+#define F first
+#define S second
+#define mp make_pair
+#define ll long long
+#define ull unsigned long long
+#define M 1000000007
+#define FASTIO ios_base::sync_with_stdio(false);cin.tie(NULL); cout.tie(NULL);
+#define take(x) scanf("%d",&x)
